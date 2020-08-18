@@ -1,0 +1,14 @@
+﻿---
+Transformer详解
+---
+
+
+分享几篇介绍Transformer的文章。
+
+1.[《Attention is All You Need》](https://arxiv.org/abs/1706.03762)
+2.[Transformer各层网络结构详解](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247497929&idx=2&sn=212989f66b43ef46c8540671be685866&chksm=ec544f4edb23c658274632200a1ad887adc4b3e5ddcc376f0355976e0efabff7f770a496ada7&mpshare=1&scene=1&srcid=1012uGlfJ7ORiPjnW2US98WZ&sharer_sharetime=1570845405353&sharer_shareid=834fd6ee41a221cb0ca352bc9e195e98&key=42ef4a06267ac3ac521f9cf896ae7cd969ad31b7b21b962d43edb3bd9d82e891b390578f0961deb750db2f11423bf77f5500223a4c3a670e8de0e250f9251e61137b071bc68f13d2d1862274c4eeaaec&ascene=1&uin=MTU0ODA1Njk3Nw==&devicetype=Windows%2010&version=62060841&lang=zh_CN&pass_ticket=L10TIsSwDcqfxlx6WjRMIzPgYR8j1fj3WN5A/AY4M5PGptPRRm7zXWgAmJ1casvL)
+3.[谷歌NIPS论文Transformer模型解读：只要Attention就够了](https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247507959&idx=2&sn=fbda7e4edc6cc0e2844de24732d1bf4f&chksm=e99eec0edee96518e1c08b8f4a5ee23639c56587036365ae9f0e2442e1f3e4d01fc076488f88&mpshare=1&scene=1&srcid=1012yQUov2SDpbQOrPwqs4xy&sharer_sharetime=1570845456122&sharer_shareid=834fd6ee41a221cb0ca352bc9e195e98&key=bd514422ed13e7d227c33014ae744a2299cae166c2ebb961b638cbbcf19ea10b2bc8d0e5467fc1b051c471802c384cbdc423fcf2dfd48d27bb3699ec801da6e1f78397482ccb48991dcc36ecea38d472&ascene=1&uin=MTU0ODA1Njk3Nw==&devicetype=Windows%2010&version=62060841&lang=zh_CN&pass_ticket=L10TIsSwDcqfxlx6WjRMIzPgYR8j1fj3WN5A/AY4M5PGptPRRm7zXWgAmJ1casvL)
+4.[哈工大SCIR Lab带你从头了解Transformer](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650795498&idx=1&sn=45d4da8cda473291423e0bd14dc807a2&chksm=8f477801b830f1171543742a98e0a10be4a69ffabdb1e4ed0bcc51310b8ee6bd638a35bb7de4&mpshare=1&scene=1&srcid=&sharer_sharetime=1570849900613&sharer_shareid=834fd6ee41a221cb0ca352bc9e195e98&key=6995dedf19147e4496cf6dd7dede58825641561dce8b7cb32fe4c34b121326ec51578dfaf0566a831f17c2150b36f2be2ba04667ef670dbbcb420185d16164848a7e8c1dd8b81a5f7cdc3f3ba23e0e64&ascene=1&uin=MTU0ODA1Njk3Nw==&devicetype=Windows%2010&version=62060841&lang=zh_CN&pass_ticket=L10TIsSwDcqfxlx6WjRMIzPgYR8j1fj3WN5A/AY4M5PGptPRRm7zXWgAmJ1casvL)
+
+
+这几篇文章介绍的很详细了，里面也有代码实现。
