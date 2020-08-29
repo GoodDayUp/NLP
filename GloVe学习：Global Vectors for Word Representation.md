@@ -149,7 +149,8 @@ $w^T_{i}\tilde{w}_k+b_i+b_k=log(X_{ik})$    (1)
 
 以上内容其实不能完全称之为推导，因为有很多不严谨的地方，只能说是解释作者如何一步一步构造出这个公式的，仅此而已。
 
-
+## 代码实现
+https://github.com/stanfordnlp/GloVe/
 
 参考：
 
